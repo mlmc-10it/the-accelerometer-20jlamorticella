@@ -1,3 +1,4 @@
-# microbit
+# Microbit
 Tasks for learning physical computing with the microbit
-# mom
+# About the accelerometer
+### The accelerometer is a device that can measure the acceleration between g's. 
